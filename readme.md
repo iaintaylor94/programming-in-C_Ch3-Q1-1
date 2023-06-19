@@ -7,4 +7,4 @@ This is the first question of the first 'practical' chapter of the textbook. Thi
 
 This is the first program in the textbook, which is simply to print "Programming is fun." to the terminal.
 
-You may wish to run the program and note its output.
+You may wish to run the program and note its output. 
